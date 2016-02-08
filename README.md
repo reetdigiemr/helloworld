@@ -2,5 +2,7 @@
 
 Hi devs,
 
-I like nodejs and angularjs express framework and MEAN too :)
+Learn to start developing with nodejs,angularjsusing express framework and MEAN too :)
+
+Now learning github too...interesting :)
 
